@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:marvel_dd360_test/app/characters/_children/detail/_children/series/domain/repositories/series_repository.dart';

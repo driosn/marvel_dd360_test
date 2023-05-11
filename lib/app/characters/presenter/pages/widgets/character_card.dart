@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../../../../core/colors/colors.dart';
 import '../../../domain/entities/character.dart';
 
 class CharacterCard extends StatelessWidget {

@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:dio/dio.dart';
 import 'package:marvel_dd360_test/core/env/env.dart';
 import 'package:marvel_dd360_test/core/handlers/md5_handler.dart';

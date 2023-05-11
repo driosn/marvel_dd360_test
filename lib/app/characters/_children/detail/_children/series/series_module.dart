@@ -3,7 +3,6 @@ import 'package:marvel_dd360_test/app/characters/_children/detail/_children/seri
 
 import '../../../../../../core/client/interceptors/dio_client.dart';
 import '../../../../domain/entities/character.dart';
-import '../Series/domain/entities/serie.dart';
 import '../series/presenter/bloc/series_bloc.dart';
 import 'presenter/pages/series_page.dart';
 import 'data/repositories/series_api_repository.dart';

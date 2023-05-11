@@ -1,7 +1,7 @@
 import '../../domain/entities/character.dart';
 
 class CharacterModel extends Character {
-  CharacterModel({
+  const CharacterModel({
     required int id,
     required String name,
     required String description,

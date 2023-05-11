@@ -5,7 +5,7 @@ import 'package:marvel_dd360_test/app/characters/_children/detail/_children/even
 import 'package:marvel_dd360_test/app/characters/domain/entities/character.dart';
 
 import '../../../../../../core/client/interceptors/dio_client.dart';
-import '../Events/presenter/pages/Events_page.dart';
+import '../Events/presenter/pages/events_page.dart';
 import 'data/repositories/events_api_repository.dart';
 import 'domain/repositories/events_repository.dart';
 

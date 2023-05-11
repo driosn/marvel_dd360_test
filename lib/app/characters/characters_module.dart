@@ -1,4 +1,3 @@
-import 'package:dio/dio.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:marvel_dd360_test/app/characters/_children/detail/character_detail_module.dart';
 import 'package:marvel_dd360_test/app/characters/data/repositories/characters_api_repository.dart';
