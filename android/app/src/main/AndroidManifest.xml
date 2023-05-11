@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.marvel_dd360_test">
    <application
-        android:label="marvel_dd360_test"
+        android:label="Marvel DD360"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
